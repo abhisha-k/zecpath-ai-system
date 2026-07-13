@@ -1,0 +1,68 @@
+# =========================
+# Backend Framework
+# =========================
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+requests
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+psycopg2-binary
+redis
+
+# =========================
+# AI & Machine Learning
+# =========================
+openai
+langchain
+langchain-openai
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+pandas
+
+# =========================
+# Resume Parsing
+# =========================
+spacy
+pdfplumber
+PyMuPDF
+python-docx
+
+# =========================
+# Computer Vision
+# =========================
+opencv-python
+mediapipe
+Pillow
+
+# =========================
+# Speech Processing
+# =========================
+faster-whisper
+sounddevice
+pydub
+
+# =========================
+# Logging
+# =========================
+loguru
+
+# =========================
+# Testing
+# =========================
+pytest
+pytest-cov
+
+# =========================
+# Code Quality
+# =========================
+black
+isort
+flake8

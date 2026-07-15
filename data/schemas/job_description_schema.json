@@ -1,0 +1,27 @@
+{
+  "job_id": "",
+  "job_information": {
+    "job_title": "",
+    "company": "",
+    "department": "",
+    "employment_type": "",
+    "location": ""
+  },
+  "required_skills": [],
+  "preferred_skills": [],
+  "education": {
+    "degree": "",
+    "specialization": ""
+  },
+  "experience": {
+    "minimum_experience": "",
+    "maximum_experience": ""
+  },
+  "responsibilities": [],
+  "certifications": [],
+  "additional_information": {
+    "salary_range": "",
+    "benefits": [],
+    "application_deadline": ""
+  }
+}

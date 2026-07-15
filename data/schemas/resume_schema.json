@@ -1,0 +1,61 @@
+{
+  "candidate_id": "",
+  "personal_information": {
+    "full_name": "",
+    "email": "",
+    "phone_number": "",
+    "location": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": ""
+  },
+  "professional_summary": "",
+  "skills": [
+    {
+      "skill_name": "",
+      "category": "",
+      "proficiency_level": "",
+      "years_of_experience": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "specialization": "",
+      "institution": "",
+      "graduation_year": "",
+      "cgpa_or_percentage": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "",
+      "designation": "",
+      "start_date": "",
+      "end_date": "",
+      "duration": "",
+      "responsibilities": []
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "",
+      "description": "",
+      "technologies_used": [],
+      "github_repository": ""
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "",
+      "issuing_organization": "",
+      "year": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "proficiency": ""
+    }
+  ]
+}

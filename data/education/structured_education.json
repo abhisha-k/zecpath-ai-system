@@ -1,0 +1,32 @@
+{
+    "education": {
+        "degrees": [
+            "Bachelor of Science"
+        ],
+        "fields_of_study": [
+            "Data Science",
+            "Machine Learning"
+        ],
+        "institutions": [],
+        "graduation_years": [
+            "20"
+        ],
+        "certifications": [
+            "Coursera"
+        ]
+    },
+    "relevance": {
+        "target_role": "Data Scientist",
+        "matched_fields": [
+            "Data Science",
+            "Machine Learning"
+        ],
+        "education_relevance_score": 100,
+        "categorized_certifications": [
+            {
+                "certification": "Coursera",
+                "category": "Online Learning"
+            }
+        ]
+    }
+}

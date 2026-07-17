@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "resume_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "resume_id",
+    "status",
+    "message"
+  ]
+}

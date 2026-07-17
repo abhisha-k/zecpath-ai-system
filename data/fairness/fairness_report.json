@@ -1,0 +1,14 @@
+{
+    "normalized_text": "john doe email johndoegmailcom phone [PHONE] python developer with sql and machine learning experience",
+    "normalized_skills": [
+        "machine learning",
+        "python",
+        "sql"
+    ],
+    "normalized_score": 92.5,
+    "bias_report": {
+        "email_detected": false,
+        "phone_detected": true,
+        "bias_risk": "Personal Information Masked"
+    }
+}

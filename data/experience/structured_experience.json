@@ -1,0 +1,24 @@
+{
+    "experience": {
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst"
+        ],
+        "companies": [],
+        "durations": [
+            "01/2026 - Present",
+            "01/2022 - 01/2026",
+            "06/2026 - 12/2026",
+            "07/2025 - 12/2025"
+        ],
+        "total_experience": "4 employment record(s)"
+    },
+    "relevance": {
+        "target_role": "Data Scientist",
+        "matched_roles": [
+            "Data Scientist",
+            "Data Analyst"
+        ],
+        "relevance_score": 100
+    }
+}

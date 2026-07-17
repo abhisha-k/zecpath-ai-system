@@ -1,0 +1,35 @@
+{
+    "technical": [
+        {
+            "skill": "Artificial Intelligence",
+            "confidence": 0.95
+        },
+        {
+            "skill": "C",
+            "confidence": 0.95
+        },
+        {
+            "skill": "Data Science",
+            "confidence": 0.95
+        },
+        {
+            "skill": "Machine Learning",
+            "confidence": 0.95
+        },
+        {
+            "skill": "Python",
+            "confidence": 0.95
+        },
+        {
+            "skill": "Tableau",
+            "confidence": 0.95
+        }
+    ],
+    "business": [],
+    "soft": [
+        {
+            "skill": "Communication",
+            "confidence": 0.85
+        }
+    ]
+}

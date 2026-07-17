@@ -1,0 +1,26 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "candidate": {
+        "type": "string"
+      },
+      "rank": {
+        "type": "integer"
+      },
+      "score": {
+        "type": "number"
+      },
+      "status": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "candidate",
+      "rank",
+      "score",
+      "status"
+    ]
+  }
+}

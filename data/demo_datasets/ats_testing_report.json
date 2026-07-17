@@ -1,0 +1,39 @@
+{
+    "total_cases": 4,
+    "correct_predictions": 4,
+    "accuracy": 100.0,
+    "results": [
+        {
+            "candidate": "Alice",
+            "role": "Data Scientist",
+            "profile": "Fresher",
+            "ats_score": 91.5,
+            "expected_status": "Shortlisted",
+            "actual_status": "Shortlisted"
+        },
+        {
+            "candidate": "Bob",
+            "role": "Frontend Developer",
+            "profile": "Experienced",
+            "ats_score": 78.0,
+            "expected_status": "Review",
+            "actual_status": "Review"
+        },
+        {
+            "candidate": "Charlie",
+            "role": "HR Executive",
+            "profile": "Fresher",
+            "ats_score": 54.5,
+            "expected_status": "Rejected",
+            "actual_status": "Rejected"
+        },
+        {
+            "candidate": "David",
+            "role": "Project Manager",
+            "profile": "Senior",
+            "ats_score": 86.0,
+            "expected_status": "Shortlisted",
+            "actual_status": "Shortlisted"
+        }
+    ]
+}

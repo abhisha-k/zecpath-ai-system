@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "ats_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "ats_score",
+    "status"
+  ]
+}

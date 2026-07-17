@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "experience": {
+      "type": "string"
+    },
+    "education": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "skills",
+    "experience",
+    "education"
+  ]
+}

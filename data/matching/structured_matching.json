@@ -1,0 +1,33 @@
+{
+    "comparison": {
+        "resume_word_count": 202,
+        "jd_word_count": 99,
+        "matched_words": [
+            "a",
+            "analyst",
+            "analytics",
+            "and",
+            "communication",
+            "development",
+            "firm",
+            "in",
+            "is",
+            "key",
+            "of",
+            "research",
+            "skills",
+            "strategies",
+            "support",
+            "survey",
+            "team",
+            "the",
+            "to",
+            "with"
+        ],
+        "matched_count": 20
+    },
+    "similarity": {
+        "similarity_score": 9.9,
+        "matching_level": "Low Match"
+    }
+}

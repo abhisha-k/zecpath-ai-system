@@ -1,0 +1,26 @@
+[
+    {
+        "candidate": "Alice",
+        "final_ats_score": 91,
+        "rank": 1,
+        "status": "Shortlisted"
+    },
+    {
+        "candidate": "Charlie",
+        "final_ats_score": 84,
+        "rank": 2,
+        "status": "Shortlisted"
+    },
+    {
+        "candidate": "Bob",
+        "final_ats_score": 72,
+        "rank": 3,
+        "status": "Review"
+    },
+    {
+        "candidate": "David",
+        "final_ats_score": 48,
+        "rank": 4,
+        "status": "Rejected"
+    }
+]
